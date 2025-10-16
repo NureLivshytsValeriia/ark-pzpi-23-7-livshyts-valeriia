@@ -4,6 +4,6 @@
 
 Доповіді: 
 
-Мова програмування: Swift
+Правила оформлення програмного коду (Code Convention): Swift
 
-Обрані методи: 212 - Pull Up Method, 99 - Move Field, 114 - Self Encapsulate Field
+Методи рефакторингу (Refactoring Methods): 212 - Pull Up Method, 99 - Move Field, 114 - Self Encapsulate Field
